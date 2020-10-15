@@ -48,7 +48,7 @@ Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-cod
 <details>
   <summary><b>Avoid using bad names</b></summary>
 A good name allows the code to be used by many developers. The name should reflect what it does and give context.
-
+---k45
 **Bad:**
 
 ```csharp
